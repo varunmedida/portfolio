@@ -4,8 +4,6 @@
     background: url('images/mainImage.jpeg');
     background-size: cover;
     position: relative;
-    background-color: #000000;
-    background-image: (0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/mainImage.jpeg');
 }
 
 /* text css above hero image*/
